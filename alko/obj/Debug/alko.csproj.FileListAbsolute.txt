@@ -1,0 +1,6 @@
+C:\Users\Konrad.Mielnik\source\repos\alko\alko\bin\Debug\alko.exe.config
+C:\Users\Konrad.Mielnik\source\repos\alko\alko\bin\Debug\alko.exe
+C:\Users\Konrad.Mielnik\source\repos\alko\alko\bin\Debug\alko.pdb
+C:\Users\Konrad.Mielnik\source\repos\alko\alko\obj\Debug\alko.csprojAssemblyReference.cache
+C:\Users\Konrad.Mielnik\source\repos\alko\alko\obj\Debug\alko.exe
+C:\Users\Konrad.Mielnik\source\repos\alko\alko\obj\Debug\alko.pdb
